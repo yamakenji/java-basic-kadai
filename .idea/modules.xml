@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-basic-kadai.iml" filepath="$PROJECT_DIR$/.idea/java-basic-kadai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadai_004/kadai_004.iml" filepath="$PROJECT_DIR$/kadai_004/kadai_004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadai_008/kadai_008.iml" filepath="$PROJECT_DIR$/kadai_008/kadai_008.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadai_014/kadai_014.iml" filepath="$PROJECT_DIR$/kadai_014/kadai_014.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kadai_017/kadai_017.iml" filepath="$PROJECT_DIR$/kadai_017/kadai_017.iml" />
+    </modules>
+  </component>
+</project>
